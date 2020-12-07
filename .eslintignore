@@ -1,0 +1,3 @@
+eslint --ignore-pattern '.eslintcache' ./
+
+.eslintcache
